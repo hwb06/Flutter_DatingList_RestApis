@@ -27,11 +27,9 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Splash Screen](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Splash.jpg)  
-![Main Screen](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Main%20Screen.jpg)  
-![Search Function #01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Search%20Function%202.jpg)  
-![Search Function #02](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Search%20Function%201.jpg)  
-
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/01.png) 
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/02.png) 
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/03.png) 
 
 ## **API Reference**
 This project uses the RandomUser API:
