@@ -50,7 +50,6 @@ Example: https://randomuser.me/api/?page=1&results=10
   - Add user authentication
   - Add user profile details page
   - Implement real-time location-based sorting
->>>>>>> 39a8e52135fc119f43b17849c614a706c6dd6e52
 
 ### **App Demo**
 You can download and view the demo video of the app here:
