@@ -2,6 +2,7 @@
 
 ## **Project Description**
 
+<<<<<<< HEAD
 ♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern datingList app UI implementation in Flutter that demonstrates clean architecture, RESTFUL APIs, state management, and infinite scrolling with the
 RandomUser API.
 
@@ -32,12 +33,43 @@ Here are some screenshots of the app:
 ![Search Function #01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Search%20Function%202.jpg)  
 ![Search Function #02](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/Search%20Function%201.jpg)
 
+=======
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern DatingList app UI implementation in Flutter that demonstrates clean architecture, RESTFUL APIs, state management, and infinite scrolling with the 
+  RandomUser API.
+  
+  ![App Cover](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/DatingList%20Mockup.jpg)
+
+  ## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
+  - Clean Architecture with BLoC pattern
+  - Infinite scrolling with pagination
+  - Real-time data fetching from RandomUser API
+  - Cached network images for better performance
+  - Material Design UI implementation
+  - Search functionality (UI only)
+  - Error handling and loading states
+  - Location-based user display
+  - Message and call action buttons
+
+ ## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
+  - 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality.
+  - BLoC for state management
+  - Dio for API calls
+  - Cached Network Image for image handling
+
+## **App UIs Screenshots**
+Here are some screenshots of the app:
+
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/01.png) 
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/02.png) 
+![#01](https://github.com/hwb06/Flutter_DatingList_RestApis/blob/main/assets/AppUI_Screenshots/03.png) 
+>>>>>>> 39a8e52135fc119f43b17849c614a706c6dd6e52
 
 ## **API Reference**
 This project uses the RandomUser API:
 
 - Base URL: https://randomuser.me/api/
 - Pagination parameters:
+<<<<<<< HEAD
     - page: page number
     - results: number of results per page
 
@@ -54,6 +86,24 @@ Example: https://randomuser.me/api/?page=1&results=10
 - Add user authentication
 - Add user profile details page
 - Implement real-time location-based sorting
+=======
+  - page: page number
+  - results: number of results per page
+    
+Example: https://randomuser.me/api/?page=1&results=10
+
+## **Acknowledgments**
+ - RandomUser API for providing the test data
+ - Flutter team for the amazing framework
+ - BLoC library contributors
+
+## **Future Enhancements**
+  - Add user filtering options
+  - Implement chat functionality
+  - Add user authentication
+  - Add user profile details page
+  - Implement real-time location-based sorting
+>>>>>>> 39a8e52135fc119f43b17849c614a706c6dd6e52
 
 ### **App Demo**
 You can download and view the demo video of the app here:
